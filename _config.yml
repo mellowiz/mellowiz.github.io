@@ -1,8 +1,0 @@
-title: Mellowiz.GitHub.io
-description: Webpages hosted on GitHub
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-modernist
-
-gems:
-  - jekyll-mentions
