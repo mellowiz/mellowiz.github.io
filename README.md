@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# My reasonably-awesome list of how-tos and useful-things-I-shall-not-forget
 
-You can use the [editor on GitHub](https://github.com/mellowiz/mellowiz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Index
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Coding](#coding)
+- [Virtualization](#virtualization)
 
-### Markdown
+## Topics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Coding
 
-```markdown
-Syntax highlighted code block
+- [Go](#go)
+- [Python](#python)
 
-# Header 1
-## Header 2
-### Header 3
+### Virtualization
 
-- Bulleted
-- List
+- [Docker](#docker)
+- [Kubernetes](#kubernetes)
+- [Rancher](#k3s)
 
-1. Numbered
-2. List
+## Contents
 
-**Bold** and _Italic_ and `Code` text
+<!-- Contents Begin -->
 
-[Link](url) and ![Image](src)
-```
+#### ClusterHAT
+<p>The Cluster HAT (Hardware Attached on Top) interfaces a standard form-factor Raspberry Pi with 4 Raspberry Pi Zeros configured to use USB Gadget mode</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Cluster HAT](https://clusterhat.com/)
+    - [Setup](https://clusterhat.com/setup-overview)
+        - [Assembly](https://clusterhat.com/setup-assembly)
+        - [Software](https://clusterhat.com/setup-software)
+        - [Control](https://clusterhat.com/setup-control)
+    - [Detailed steps](articles/raspi_clusterhat_install.md) - installation steps, local file
 
-### Jekyll Themes
+#### Python
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mellowiz/mellowiz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+#### Go
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- Contents End -->
+
